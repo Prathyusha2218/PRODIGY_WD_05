@@ -1,14 +1,19 @@
-# "Simple Weather Application using HTML, CSS &amp; JavaScript"
+#PRODIGY_WD_05
+#Weather Report App
+-----------------------------------
+<p>This project is a simple weather app using HTML, CSS, and JavaScript involves creating a user interface with HTML, styling it with CSS, and using JavaScript to fetch and display real-time weather data from a weather API based on user input. The app provides an interactive way for users to check the current weather conditions for any city.</p>
+<h4>screenshot</h4>
 
-## Overview of Weather App
 
-It's a  Simple Weather Application made by using HTML, CSS &amp; JavaScript.
 
-The app is created by [J. Siv Ram Shastri](https://www.linkedin.com/in/imsivram1999/) for helping out the beginners on how to make Simple Weather Application using HTML, CSS &amp; JavaScript
 
-Live Demo:  https://prince-shivaram.github.io/Simple-Weather-App/
 
-## Show some :heart: and :star: the repo if you like the design.
 
-![WeatherApp](https://user-images.githubusercontent.com/42378118/99897986-fd02dc00-2cc3-11eb-9cac-f5b577bfef40.png)
+![image](https://github.com/Prathyusha2218/PRODIGY_WD_05/assets/164630498/f7b6c5d5-edcf-47d2-8f60-15186d594743)
+
+
+
+
+
+
 
